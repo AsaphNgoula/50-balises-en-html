@@ -1,0 +1,53 @@
+                       50-balises-en-html
+ <html>: carde global qui enveloppe tout le code de la page web.
+ <meta>:c'est la zone des infos cahches(titre,style,scripts).
+ <title>: titre de la page.
+ <meta>: donne les petits infos techniques(langues,description pour google,encodage du texte).
+ <link>:liaison avec une feuille de style 
+ <style>:permet d'ecrire du css directement dans la page.
+ <script>:pour ajouter du javascript dans la page.
+ <head>:en-tete de la page.
+ <body>:corps de la page.
+ <header>:contient l'entete de la page.
+ <nav>: bloc qui contient des liens pour se deplacer dans le site.
+ <main>: le coeur du contenu,unique sur la page.
+ <abbr>:abbrevation.
+ <cite>:citation d'un titre ,d'une oeuvre,ou d'un evenement.
+ <section>:grand bloc qui regroupe un meme sujet.
+ <article>:c'est un contenu autonome comme un article de blog ou une fiche.
+ <aside>:c'est une zone a cote du contenu principal(pub,infos en plus).
+ <footer>:c'est le pied de page.
+ <h1> a <h6>: ce sont les titres du plus important au plus petit.
+ <p>:paragraphe.
+ <a>:pour creer un lien.
+ <img>:pour inserer une image.
+ <figure>:c'est un bloc media qui contient une image avec une legende.
+ <figcaption>:c'est la legende de l'image ou du media.
+ <ul>:liste a puce ,non ordonne.
+ <ol>:lise non ordonne.
+ <li> pour les elements de la liste.
+ <table>:pour creer un tableau.
+ <thead>:en-tete du tableau.
+ <tbody>: corps du tableau.
+ <tr>: ligne du tableau.
+ <th>:cellule d'en-tete dans le tableau.
+ <td>:cellule de donnees normale.
+ <form>:formulaire pour envoyer des informations.
+ <input>:champs que l'utilisateur rempli ou coche.
+ <lable>:texte descriptif lie au champ.
+ <textarea>: grande zone de saisie du texte.
+ <button>:cree un un button cliquable.
+ <select>:menu deroulant pour choisir une option.
+ <option>:c'est un choix a l'interieur du menu deroulant.
+ <fieldset>groupe de champs.
+ <legend>:le titre d'un groupe de champs.
+ <div>:balise generique de type bloc.
+ <span>:balise generique de type inline.
+ <strong>texte important qui s'affiche en gras.
+ <em>:texte mise en avant(italique).
+ <small>:texte secondaire affiche plus petit.
+ <br>:retour a ligne.
+ <hr>:retour a la ligne et trace une ligne de separation en haut.
+ <iframe>:fenetre qui affiche une autre page ou video.
+ <picture>:image adaptable selon la taille de l'ecran.
+ <template>:code cache reutilisable.
